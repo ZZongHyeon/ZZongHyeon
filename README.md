@@ -78,8 +78,7 @@
 - **사용자 맞춤 검색** - 역세권별 가격 비교 및 투자 가치 분석 기능
 -->
 
-> ### [**무드싱크**](https://github.com/zzonghyeon/MoodSync) 
-<sub>감정 기반 음악 추천 플랫폼 | 2025.06</sub>
+🎵 무드싱크 <span style="font-size: 0.8em;">감정 기반 음악 추천 플랫폼 | 2025.06</span>
 
 <!--
 - **추천 알고리즘** - 협업 필터링과 콘텐츠 기반 하이브리드 추천 시스템
@@ -103,4 +102,3 @@
   - "WebSocket 기반 실시간 채팅 시스템"
   - "1:1 채팅 및 그룹 채팅 구현"
 ```
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzonghyeon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=38bdae&langs_count=8)
