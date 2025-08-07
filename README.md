@@ -76,11 +76,6 @@ Real-time Communication:
 ### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzonghyeon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=38bdae)
 
-
-### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zzonghyeon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true)
-
-
 ### 📊 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zzonghyeon&theme=tokyo-night&bg_color=0D1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 
