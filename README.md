@@ -1,24 +1,15 @@
 <div align="center">
 
-# 👨‍💻 정종현 (Jeong Jong Hyeon)
-
-### **Spring Boot 기반 백엔드 개발자 | 시스템 아키텍처 설계 전문**
-
 ![Profile Views](https://komarev.com/ghpvc/?username=zzonghyeon&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zzonghyeon)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nskynet5374@naver.com)
 
 </div>
 
----
 
 ## 🎯 About Me
 
 - 📧 **EMAIL** nskynet5374@naver.com
 - 🎓 **동의대학교 컴퓨터공학과** 졸업 (2023.03 ~ 2025.02)
 - 📚 **KH정보교육원** 자바 기반 공공데이터 융합 개발자 양성과정 수료
-- 🏆 **정보처리기사** 필기 합격 (2024.05)
 - 💪 **팀 리더십**과 **문제해결 능력**을 바탕으로 한 프로젝트 주도 경험
 
 ## 🛠️ Tech Stack
@@ -71,10 +62,10 @@
 
 ### 📚 **잉크트리 (도서관리 시스템)** - 팀장 역할
 > **4명 팀 프로젝트 주도 | 2025.05**
-- ✅ **Spring Security + JWT** 기반 무상태 인증 시스템 구축
-- ✅ **WebSocket** 실시간 채팅 기능 개발 (1:1, 그룹 채팅)
-- ✅ **OAuth2.0** 소셜 로그인 통합 (Google, Kakao, Naver)
-- ✅ **도메인 중심 아키텍처** 설계 및 리팩토링 주도
+- **Spring Security + JWT** 기반 무상태 인증 시스템 구축
+- **WebSocket** 실시간 채팅 기능 개발 (1:1, 그룹 채팅)
+- **OAuth2.0** 소셜 로그인 통합 (Google, Kakao, Naver)
+- **도메인 중심 아키텍처** 설계 및 리팩토링 주도
 
 ### 🏠 **메트로 하우스** - 데이터 시각화
 > **지하철 역 인근 아파트 실거래가 분석 시스템 | 2025.05**
@@ -98,3 +89,5 @@
 💬 Real-time Communication:
   - "WebSocket 기반 실시간 채팅 시스템"
   - "1:1 채팅 및 그룹 채팅 구현"
+```
+### 💻 Most Used Languages![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzonghyeon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=38bdae&langs_count=8)
