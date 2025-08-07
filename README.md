@@ -78,10 +78,9 @@
 
 - ### 🎵 [**무드싱크**](https://github.com/zzonghyeon/MoodSync) <small>감정 기반 음악 추천 플랫폼 | 2025.06</small>
 
-```markdown
+
 ### 🎵 [**무드싱크**](https://github.com/zzonghyeon/MoodSync) 
 <sub>감정 기반 음악 추천 플랫폼 | 2025.06</sub>
-```
 
 <!--
 - **추천 알고리즘** - 협업 필터링과 콘텐츠 기반 하이브리드 추천 시스템
