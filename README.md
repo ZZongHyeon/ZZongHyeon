@@ -4,6 +4,8 @@
 > **Spring Boot 기반 백엔드 개발자 | 시스템 아키텍처 설계 전문**
 
 -->
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=zzonghyeon&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 ## 🎯 About Me
 
@@ -81,8 +83,7 @@ Real-time Communication:
 </td>
 <td width="50%">
 
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=zzonghyeon&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
 
 <br><br>
 
