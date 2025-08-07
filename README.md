@@ -76,36 +76,32 @@ Real-time Communication:
 
 <div align="center">
 
-### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zzonghyeon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+<table>
+<tr>
+<td width="50%">
 
 ### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzonghyeon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=38bdae)
 
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zzonghyeon&theme=tokyonight&hide_border=true&background=0D1117&stroke=70a5fd&ring=bf91f3&fire=ffaa2c&currStreakLabel=70a5fd)
-
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zzonghyeon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-### 📊 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zzonghyeon&theme=tokyo-night&bg_color=0D1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+</td>
+<td width="50%">
 
 ### 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=zzonghyeon&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
+<br><br>
+
+### 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zzonghyeon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true)
+
+</td>
+</tr>
+</table>
+
+### 📊 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zzonghyeon&theme=tokyo-night&bg_color=0D1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+
 </div>
-
----
-
-<div align="center">
-
-**"설계부터 구현까지 주도하는 풀스택 개발자"** 💻
-
-*Always learning, always growing* 🌱
-
-</div>
-
-
+```
 
 
