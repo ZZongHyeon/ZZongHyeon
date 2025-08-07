@@ -12,7 +12,7 @@
 - **KH정보교육원** 자바 기반 공공데이터 융합 개발자 양성과정 수료
 - **팀 리더십**과 **문제해결 능력**을 바탕으로 한 프로젝트 주도 경험
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table>
 <tr>
@@ -58,7 +58,7 @@
 </table>
 
 
-## 🚀 주요 프로젝트
+## 주요 프로젝트
 
 - ### [**잉크트리**](https://github.com/zzonghyeon/Ink_Tree_Pjt) **도서관리 시스템 | 2025.05**
 
@@ -68,7 +68,7 @@
 - **OAuth2.0** 소셜 로그인 통합 (Google, Kakao, Naver)
 -->
 
-- ### [**메트로 하우스**](https://github.com/zzonghyeon/Metro_House_Pjt) **지하철 역 인근 아파트 실거래가 분석 시스템 | 2025.05**
+- ### [**메트로하우스**](https://github.com/zzonghyeon/Metro_House_Pjt) **지하철 역 인근 아파트 실거래가 분석 시스템 | 2025.05**
 <!--
 - **공공데이터 API 연동** - 국토교통부 실거래가 데이터 실시간 수집
 - **지리정보 시각화** - 지하철 노선별 부동산 시세 분석 대시보드 구현
@@ -76,26 +76,32 @@
 - **사용자 맞춤 검색** - 역세권별 가격 비교 및 투자 가치 분석 기능
 -->
 
-- ### [**무드 싱크**](https://github.com/zzonghyeon/MoodSync) **감정 기반 음악 추천 플랫폼 | 2025.06**
+- ### 🎵 [**무드싱크**](https://github.com/zzonghyeon/MoodSync) <small>감정 기반 음악 추천 플랫폼 | 2025.06</small>
+
+```markdown
+### 🎵 [**무드싱크**](https://github.com/zzonghyeon/MoodSync) 
+<sub>감정 기반 음악 추천 플랫폼 | 2025.06</sub>
+```
+
 <!--
 - **추천 알고리즘** - 협업 필터링과 콘텐츠 기반 하이브리드 추천 시스템
 - **머신러닝 모델** - 사용자 행동 패턴 학습을 통한 개인화 추천 정확도 향상
 -->
 
-## 💡 핵심 역량
+## 핵심 역량
 
 ```yaml
-🏗️ Architecture Design:
+> Architecture Design:
   - "JDBC → MyBatis → Spring Boot 마이그레이션 주도"
   - "도메인 중심 패키지 구조 리팩토링으로 유지보수성 향상"
   - "ERD 설계 및 데이터 흐름 다이어그램 작성"
 
-🔐 Security & Authentication:
+> Security & Authentication:
   - "Spring Security + JWT 무상태 인증 시스템"
   - "BCryptPasswordEncoder 비밀번호 암호화"
   - "OAuth2.0 소셜 로그인 통합"
 
-💬 Real-time Communication:
+> Real-time Communication:
   - "WebSocket 기반 실시간 채팅 시스템"
   - "1:1 채팅 및 그룹 채팅 구현"
 ```
