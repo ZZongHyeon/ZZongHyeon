@@ -1,9 +1,9 @@
-<div align="center">
+<!-- <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zzonghyeon&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
+-->
 
 ## 🎯 About Me
 
@@ -60,26 +60,26 @@
 
 ## 🚀 주요 성과
 
-### 📚 **잉크트리**
+### 📚 [**잉크트리**](https://github.com/zzonghyeon/Ink_Tree_Pjt)
 > **도서관리 시스템 | 2025.05**
 - **Spring Security + JWT** 기반 무상태 인증 시스템 구축
 - **WebSocket** 실시간 채팅 기능 개발 (1:1, 그룹 채팅)
 - **OAuth2.0** 소셜 로그인 통합 (Google, Kakao, Naver)
-- **도메인 중심 아키텍처** 설계 및 리팩토링 주도
 
-### 🏠 **메트로 하우스** - 데이터 시각화
+### 🏠 [**메트로 하우스**](https://github.com/zzonghyeon/Metro_House_Pjt)
 > **지하철 역 인근 아파트 실거래가 분석 시스템 | 2025.05**
 - **공공데이터 API 연동** - 국토교통부 실거래가 데이터 실시간 수집
 - **지리정보 시각화** - 지하철 노선별 부동산 시세 분석 대시보드 구현
+
+<!--
 - **데이터 전처리** - 대용량 부동산 데이터 정제 및 통계 분석 알고리즘 적용
 - **사용자 맞춤 검색** - 역세권별 가격 비교 및 투자 가치 분석 기능
+-->
 
-### 🎵 **무드 싱크** - AI 추천 시스템
+### 🎵 [**무드 싱크**](https://github.com/zzonghyeon/MoodSync)
 > **감정 기반 음악 추천 플랫폼 | 2025.06**
-- **감정 분석 AI** - 자연어 처리 기반 사용자 감정 상태 분석
 - **추천 알고리즘** - 협업 필터링과 콘텐츠 기반 하이브리드 추천 시스템
 - **머신러닝 모델** - 사용자 행동 패턴 학습을 통한 개인화 추천 정확도 향상
-- **실시간 분석** - 음악 청취 이력과 감정 데이터 연동으로 맞춤형 플레이리스트 생성
 
 ## 💡 핵심 역량
 
