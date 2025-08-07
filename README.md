@@ -63,7 +63,7 @@ Security & Authentication:
 Real-time Communication:
   - "WebSocket 기반 실시간 채팅 시스템"
   - "1:1 채팅 및 그룹 채팅 구현"
-
+```
 
 ## 📫 Contact
 
@@ -105,7 +105,6 @@ Real-time Communication:
 *Always learning, always growing* 🌱
 
 </div>
-```
 
 
 
