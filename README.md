@@ -7,6 +7,7 @@
 
 ## 🎯 About Me
 
+- 📧 **EMAIL** nskynet5374@naver.com
 - 🎓 **동의대학교 컴퓨터공학과** 졸업 (2023.03 ~ 2025.02)
 - 📚 **KH정보교육원** 자바 기반 공공데이터 융합 개발자 양성과정 수료
 - 💪 **팀 리더십**과 **문제해결 능력**을 바탕으로 한 프로젝트 주도 경험
@@ -64,12 +65,6 @@ Real-time Communication:
   - "WebSocket 기반 실시간 채팅 시스템"
   - "1:1 채팅 및 그룹 채팅 구현"
 ```
-
-## 📫 Contact
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zzonghyeon)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nskynet5374@naver.com)
-
 ---
 
 ## 📊 GitHub Statistics
