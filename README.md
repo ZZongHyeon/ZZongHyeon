@@ -60,31 +60,12 @@
 
 ## 주요 프로젝트
 
-> ### [**잉크트리**](https://github.com/zzonghyeon/Ink_Tree_Pjt)
-<sub>도서관리 시스템 | 2025.05</sub>
+### 📚 [**잉크트리**](https://github.com/zzonghyeon/Ink_Tree_Pjt) <sub style="color: #666;">도서관리 시스템 | 2025.05</sub>
 
-<!--
-- **Spring Security + JWT** 기반 무상태 인증 시스템 구축
-- **WebSocket** 실시간 채팅 기능 개발 (1:1, 그룹 채팅)
-- **OAuth2.0** 소셜 로그인 통합 (Google, Kakao, Naver)
--->
+### 🏠 [**메트로하우스**](https://github.com/zzonghyeon/Metro_House_Pjt) <sub style="color: #666;">지하철 역 인근 아파트 실거래가 분석 시스템 | 2025.05</sub>
 
-> ### [**메트로하우스**](https://github.com/zzonghyeon/Metro_House_Pjt)
-<sub>지하철 역 인근 아파트 실거래가 분석 시스템 | 2025.05**</sub>
-<!--
-- **공공데이터 API 연동** - 국토교통부 실거래가 데이터 실시간 수집
-- **지리정보 시각화** - 지하철 노선별 부동산 시세 분석 대시보드 구현
-- **데이터 전처리** - 대용량 부동산 데이터 정제 및 통계 분석 알고리즘 적용
-- **사용자 맞춤 검색** - 역세권별 가격 비교 및 투자 가치 분석 기능
--->
+### 🎵 [**무드싱크**](https://github.com/zzonghyeon/MoodSync) <sub style="color: #666;">감정 기반 음악 추천 플랫폼 | 2025.06</sub>
 
-### 🎵 [**무드싱크**](https://github.com/zzonghyeon/MoodSync) <span style="font-size: 0.8em;">감정 기반 음악 추천 플랫폼 | 2025.06</span>
-
-### 🎵 [**무드싱크**](https://github.com/zzonghyeon/MoodSync) <sub>감정 기반 음악 추천 플랫폼 | 2025.06</sub>
-
-### 🎵 [**무드싱크**](https://github.com/zzonghyeon/MoodSync) <small>감정 기반 음악 추천 플랫폼 | 2025.06</small>
-
-### 🎵 [**무드싱크**](https://github.com/zzonghyeon/MoodSync) `감정 기반 음악 추천 플랫폼 | 2025.06`
 
 <!--
 - **추천 알고리즘** - 협업 필터링과 콘텐츠 기반 하이브리드 추천 시스템
