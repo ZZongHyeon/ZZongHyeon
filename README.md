@@ -68,30 +68,5 @@ Real-time Communication:
   - "1:1 채팅 및 그룹 채팅 구현"
 ```
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
 ### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zzonghyeon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=38bdae&langs_count=8)
-
-</td>
-<td width="50%">
-
-### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zzonghyeon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 📊 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zzonghyeon&theme=tokyo-night&bg_color=0D1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
-
-</div>
