@@ -60,11 +60,11 @@
 
 ## 주요 프로젝트
 
-### 📚 [**잉크트리**](https://github.com/zzonghyeon/Ink_Tree_Pjt) <sub style="color: #666;">도서관리 시스템 | 2025.05</sub>
+### 📚 [**잉크트리**](https://github.com/zzonghyeon/Ink_Tree_Pjt) <sub style="color: #888;">도서관리 시스템 | 2025.05</sub>
 
-### 🏠 [**메트로하우스**](https://github.com/zzonghyeon/Metro_House_Pjt) <sub style="color: #666;">지하철 역 인근 아파트 실거래가 분석 시스템 | 2025.05</sub>
+### 🏠 [**메트로하우스**](https://github.com/zzonghyeon/Metro_House_Pjt) <sub style="color: #888;">지하철 역 인근 아파트 실거래가 분석 시스템 | 2025.05</sub>
 
-### 🎵 [**무드싱크**](https://github.com/zzonghyeon/MoodSync) <sub style="color: #666;">감정 기반 음악 추천 플랫폼 | 2025.06</sub>
+### 🎵 [**무드싱크**](https://github.com/zzonghyeon/MoodSync) <sub style="color: #888;">감정 기반 음악 추천 플랫폼 | 2025.06</sub>
 
 
 <!--
