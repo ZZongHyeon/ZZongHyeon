@@ -60,8 +60,7 @@
 
 ## 🚀 주요 프로젝트
 
-### 📚 [**잉크트리**](https://github.com/zzonghyeon/Ink_Tree_Pjt)
-> **도서관리 시스템 | 2025.05**
+### 📚 [**잉크트리**](https://github.com/zzonghyeon/Ink_Tree_Pjt) > **도서관리 시스템 | 2025.05**
 
 <!--
 - **Spring Security + JWT** 기반 무상태 인증 시스템 구축
